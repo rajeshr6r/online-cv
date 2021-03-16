@@ -7,19 +7,19 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Rajesh Rajamani
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: rajesh.r6r@gmail.com
+    phone: +91 981 993 7639
+    website: rajesh-r6r.medium.com #do not add http://
+    linkedin: rajeshrajamani
+    github: rajesh.r6r
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@rajeshr6r'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
 
@@ -27,7 +27,7 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Hindi
         level: Professional
 
       - idiom: Spanish
